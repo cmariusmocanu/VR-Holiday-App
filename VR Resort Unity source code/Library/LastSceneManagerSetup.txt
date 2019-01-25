@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Vr resort/Scene/Vr resort.unity
+  isLoaded: 1
+  isActive: 1
